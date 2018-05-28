@@ -1,0 +1,6 @@
+framework module Pods_AllInOne_SwiftTests {
+  umbrella header "Pods-AllInOne_SwiftTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
