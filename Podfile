@@ -6,6 +6,12 @@ target 'AllInOne_Swift' do
   use_frameworks!
 
   # Pods for AllInOne_Swift
+  pod 'NSDate+TimeAgo', '~> 1.0'
+  pod 'MaterialComponents/Buttons'
+  pod 'KGModal', '~> 1.2'
+  pod 'NextGrowingTextView'
+  pod 'Alamofire', '~> 4.5'
+  
 
   target 'AllInOne_SwiftTests' do
     inherit! :search_paths

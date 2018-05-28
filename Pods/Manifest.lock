@@ -1,3 +1,48 @@
-PODFILE CHECKSUM: 1ef43ca321aa7edda2a120194870b0ffee09d151
+PODS:
+  - Alamofire (4.7.2)
+  - KGModal (1.2.0)
+  - MaterialComponents/Buttons (55.2.0):
+    - MaterialComponents/Ink
+    - MaterialComponents/private/Math
+    - MaterialComponents/private/Shapes
+    - MaterialComponents/ShadowElevations
+    - MaterialComponents/ShadowLayer
+    - MaterialComponents/Typography
+    - MDFInternationalization
+    - MDFTextAccessibility
+  - MaterialComponents/Ink (55.2.0):
+    - MaterialComponents/private/Math
+  - MaterialComponents/private/Application (55.2.0)
+  - MaterialComponents/private/Math (55.2.0)
+  - MaterialComponents/private/Shapes (55.2.0):
+    - MaterialComponents/private/Math
+    - MaterialComponents/ShadowLayer
+  - MaterialComponents/ShadowElevations (55.2.0)
+  - MaterialComponents/ShadowLayer (55.2.0):
+    - MaterialComponents/ShadowElevations
+  - MaterialComponents/Typography (55.2.0):
+    - MaterialComponents/private/Application
+  - MDFInternationalization (1.0.4)
+  - MDFTextAccessibility (1.2.0)
+  - NextGrowingTextView (1.2.2)
+  - NSDate+TimeAgo (1.0.6)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.5)
+  - KGModal (~> 1.2)
+  - MaterialComponents/Buttons
+  - NextGrowingTextView
+  - NSDate+TimeAgo (~> 1.0)
+
+SPEC CHECKSUMS:
+  Alamofire: e4fa87002c137ba2d8d634d2c51fabcda0d5c223
+  KGModal: f408e450d4fc683d5cb06b6bb566b04ac34b7ce7
+  MaterialComponents: b321a90d9746ac7be2e5da3f8497c5aa15b1f761
+  MDFInternationalization: e355b0cebecf53d60233bd267084e49366c82513
+  MDFTextAccessibility: 94098925e0853551c5a311ce7c1ecefbe297cdb6
+  NextGrowingTextView: 78c8b96f7ac6dc845f5babb27dcf7c18dd3210ec
+  NSDate+TimeAgo: 35601c619b2d59290055e4fe76e61d97677a2360
+
+PODFILE CHECKSUM: 56ef3b840a0eff7eb48af7db54ebb6386cd68475
 
 COCOAPODS: 1.4.0
