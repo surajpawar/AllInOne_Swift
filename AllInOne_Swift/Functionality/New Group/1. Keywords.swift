@@ -35,7 +35,7 @@ import Foundation
  struct,
  subscript,
  typealias,
- and var.
+ var.
  
  //MARK:- **** Keywords used in statements:
  
@@ -55,7 +55,7 @@ import Foundation
  return,
  switch,
  where,
- and while.
+ while.
  
  //MARK:- **** Keywords used in expressions and types:
  
@@ -72,7 +72,7 @@ import Foundation
  throw,
  throws,
  true,
- and try.
+ try.
  
  //MARK:- **** Keywords used in patterns:
  
@@ -93,7 +93,7 @@ import Foundation
  #imageLiteral,
  #line,
  #selector,
- and #sourceLocation.
+ #sourceLocation.
  
  //MARK:- **** Keywords reserved in particular contexts: ****
  
@@ -122,7 +122,7 @@ import Foundation
  Type,
  unowned,
  weak,
- and willSet.
+ willSet.
  
  
  Outside the context in which they appear in the grammar, they can be used as identifiers.
