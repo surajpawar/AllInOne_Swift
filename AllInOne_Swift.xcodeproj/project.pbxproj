@@ -180,7 +180,8 @@
 				7A3413B020BC1D2900852663 /* 2.App Design */,
 				7A3413B120BC1D9900852663 /* 3.Imp Basics */,
 				7A3413B420BC2C1400852663 /* 4.Swift Theory */,
-				7A3413AF20BC1CF600852663 /* 5.Resources */,
+				7AD97E8A20BD833100618D23 /* 5. Other */,
+				7A3413AF20BC1CF600852663 /* 6.Resources */,
 			);
 			path = AllInOne_Swift;
 			sourceTree = "<group>";
@@ -203,7 +204,7 @@
 			path = AllInOne_SwiftUITests;
 			sourceTree = "<group>";
 		};
-		7A3413AF20BC1CF600852663 /* 5.Resources */ = {
+		7A3413AF20BC1CF600852663 /* 6.Resources */ = {
 			isa = PBXGroup;
 			children = (
 				7A34138020BBDF2500852663 /* Assets.xcassets */,
@@ -211,7 +212,7 @@
 				7A34138520BBDF2500852663 /* Info.plist */,
 				7A34137D20BBDF2000852663 /* AllInOne_Swift.xcdatamodeld */,
 			);
-			path = 5.Resources;
+			path = 6.Resources;
 			sourceTree = "<group>";
 		};
 		7A3413B020BC1D2900852663 /* 2.App Design */ = {
@@ -265,7 +266,7 @@
 				7AD97E6C20BD32A300618D23 /* Memory Safety */,
 				7AD97E6B20BD329F00618D23 /* Access Control */,
 				7AD97E6A20BD328E00618D23 /* Advanced Operators */,
-				7AD97E6920BD328700618D23 /* Patterns */,
+				7AD97E6920BD328700618D23 /* Design Patterns */,
 			);
 			path = "4.Swift Theory";
 			sourceTree = "<group>";
@@ -305,11 +306,11 @@
 			path = "The Basics";
 			sourceTree = "<group>";
 		};
-		7AD97E6920BD328700618D23 /* Patterns */ = {
+		7AD97E6920BD328700618D23 /* Design Patterns */ = {
 			isa = PBXGroup;
 			children = (
 			);
-			path = Patterns;
+			path = "Design Patterns";
 			sourceTree = "<group>";
 		};
 		7AD97E6A20BD328E00618D23 /* Advanced Operators */ = {
@@ -494,6 +495,421 @@
 				7A34137820BBDF2000852663 /* ViewController.swift */,
 			);
 			path = "1.App LifeCycles";
+			sourceTree = "<group>";
+		};
+		7AD97E8A20BD833100618D23 /* 5. Other */ = {
+			isa = PBXGroup;
+			children = (
+				7AD97EFA20BD83A500618D23 /* UIBars */,
+				7AD97EFB20BD83C100618D23 /* UIViews */,
+				7AD97EFC20BD83DB00618D23 /* UIControls */,
+				7AD97EFD20BD840600618D23 /* Extensions */,
+				7AD97EFE20BD842300618D23 /* Technologies */,
+				7AD97EFF20BD843D00618D23 /* WatchKit */,
+				7AD97F0020BD846900618D23 /* IAd Integration */,
+				7AD97F0120BD848D00618D23 /* Storages */,
+				7AD97F0520BD852F00618D23 /* Audio & Video */,
+				7AD97F0620BD855300618D23 /* Camera */,
+				7AD97F0720BD856400618D23 /* Device Sensors */,
+			);
+			path = "5. Other";
+			sourceTree = "<group>";
+		};
+		7AD97EFA20BD83A500618D23 /* UIBars */ = {
+			isa = PBXGroup;
+			children = (
+				7AD97F0820BD85A000618D23 /* Navigation Bar */,
+				7AD97F0920BD85AB00618D23 /* Search Bar */,
+				7AD97F0C20BD85CF00618D23 /* Tool Bar */,
+				7AD97F0B20BD85C600618D23 /* Tab Bar */,
+				7AD97F0A20BD85B500618D23 /* Status Bar */,
+			);
+			path = UIBars;
+			sourceTree = "<group>";
+		};
+		7AD97EFB20BD83C100618D23 /* UIViews */ = {
+			isa = PBXGroup;
+			children = (
+				7AD97F2720BD89B600618D23 /* UIView */,
+				7AD97F2620BD897F00618D23 /* ARKit SpriteKit View */,
+				7AD97F2520BD896900618D23 /* ARKit SceneKit View */,
+				7AD97F2420BD894C00618D23 /* SpriteKit View */,
+				7AD97F2320BD894000618D23 /* SceneKit View */,
+				7AD97F2220BD892700618D23 /* MetalKit View */,
+				7AD97F1F20BD88D800618D23 /* Progress View */,
+				7AD97F1E20BD88BD00618D23 /* AVKit Player View */,
+				7AD97F1D20BD88AD00618D23 /* GLKit View */,
+				7AD97F1B20BD879F00618D23 /* Container View */,
+				7AD97F1A20BD874700618D23 /* Stack View */,
+				7AD97F1920BD872500618D23 /* Web View (depricated) */,
+				7AD97F1C20BD87BB00618D23 /* WebKit View */,
+				7AD97F1820BD871900618D23 /* Text View */,
+				7AD97F1720BD86F200618D23 /* Table View */,
+				7AD97F1620BD86D900618D23 /* Split View */,
+				7AD97F1520BD86CD00618D23 /* Scroll View */,
+				7AD97F1420BD86C600618D23 /* Page View */,
+				7AD97F1320BD86BA00618D23 /* Map Kit View */,
+				7AD97F1220BD86AF00618D23 /* Image View */,
+				7AD97F1120BD869D00618D23 /* Collection View */,
+				7AD97F1020BD868400618D23 /* Alert View  */,
+				7AD97F0F20BD866F00618D23 /* Activity View */,
+				7AD97F0E20BD864F00618D23 /* Popovers */,
+				7AD97F0D20BD863D00618D23 /* Action Sheet */,
+			);
+			path = UIViews;
+			sourceTree = "<group>";
+		};
+		7AD97EFC20BD83DB00618D23 /* UIControls */ = {
+			isa = PBXGroup;
+			children = (
+				7AD97F2C20BD8A1900618D23 /* Pickers */,
+				7AD97F2B20BD8A0B00618D23 /* Page Controls */,
+				7AD97F2A20BD8A0300618D23 /* Labels */,
+				7AD97F2920BD89F600618D23 /* Edit Menus */,
+				7AD97F2820BD89EC00618D23 /* Buttons */,
+			);
+			path = UIControls;
+			sourceTree = "<group>";
+		};
+		7AD97EFD20BD840600618D23 /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
+		7AD97EFE20BD842300618D23 /* Technologies */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Technologies;
+			sourceTree = "<group>";
+		};
+		7AD97EFF20BD843D00618D23 /* WatchKit */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = WatchKit;
+			sourceTree = "<group>";
+		};
+		7AD97F0020BD846900618D23 /* IAd Integration */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "IAd Integration";
+			sourceTree = "<group>";
+		};
+		7AD97F0120BD848D00618D23 /* Storages */ = {
+			isa = PBXGroup;
+			children = (
+				7AD97F0320BD84C900618D23 /* Sqlite */,
+				7AD97F0220BD84C100618D23 /* CoreData */,
+				7AD97F0420BD84D800618D23 /* NSUserDefaults */,
+			);
+			path = Storages;
+			sourceTree = "<group>";
+		};
+		7AD97F0220BD84C100618D23 /* CoreData */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = CoreData;
+			sourceTree = "<group>";
+		};
+		7AD97F0320BD84C900618D23 /* Sqlite */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Sqlite;
+			sourceTree = "<group>";
+		};
+		7AD97F0420BD84D800618D23 /* NSUserDefaults */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = NSUserDefaults;
+			sourceTree = "<group>";
+		};
+		7AD97F0520BD852F00618D23 /* Audio & Video */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "Audio & Video";
+			sourceTree = "<group>";
+		};
+		7AD97F0620BD855300618D23 /* Camera */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Camera;
+			sourceTree = "<group>";
+		};
+		7AD97F0720BD856400618D23 /* Device Sensors */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "Device Sensors";
+			sourceTree = "<group>";
+		};
+		7AD97F0820BD85A000618D23 /* Navigation Bar */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "Navigation Bar";
+			sourceTree = "<group>";
+		};
+		7AD97F0920BD85AB00618D23 /* Search Bar */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "Search Bar";
+			sourceTree = "<group>";
+		};
+		7AD97F0A20BD85B500618D23 /* Status Bar */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "Status Bar";
+			sourceTree = "<group>";
+		};
+		7AD97F0B20BD85C600618D23 /* Tab Bar */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "Tab Bar";
+			sourceTree = "<group>";
+		};
+		7AD97F0C20BD85CF00618D23 /* Tool Bar */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "Tool Bar";
+			sourceTree = "<group>";
+		};
+		7AD97F0D20BD863D00618D23 /* Action Sheet */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "Action Sheet";
+			sourceTree = "<group>";
+		};
+		7AD97F0E20BD864F00618D23 /* Popovers */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Popovers;
+			sourceTree = "<group>";
+		};
+		7AD97F0F20BD866F00618D23 /* Activity View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "Activity View";
+			sourceTree = "<group>";
+		};
+		7AD97F1020BD868400618D23 /* Alert View  */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "Alert View ";
+			sourceTree = "<group>";
+		};
+		7AD97F1120BD869D00618D23 /* Collection View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "Collection View";
+			sourceTree = "<group>";
+		};
+		7AD97F1220BD86AF00618D23 /* Image View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "Image View";
+			sourceTree = "<group>";
+		};
+		7AD97F1320BD86BA00618D23 /* Map Kit View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "Map Kit View";
+			sourceTree = "<group>";
+		};
+		7AD97F1420BD86C600618D23 /* Page View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "Page View";
+			sourceTree = "<group>";
+		};
+		7AD97F1520BD86CD00618D23 /* Scroll View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "Scroll View";
+			sourceTree = "<group>";
+		};
+		7AD97F1620BD86D900618D23 /* Split View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "Split View";
+			sourceTree = "<group>";
+		};
+		7AD97F1720BD86F200618D23 /* Table View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "Table View";
+			sourceTree = "<group>";
+		};
+		7AD97F1820BD871900618D23 /* Text View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "Text View";
+			sourceTree = "<group>";
+		};
+		7AD97F1920BD872500618D23 /* Web View (depricated) */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "Web View (depricated)";
+			sourceTree = "<group>";
+		};
+		7AD97F1A20BD874700618D23 /* Stack View */ = {
+			isa = PBXGroup;
+			children = (
+				7AD97F2120BD88F700618D23 /* Vertical Stack View */,
+				7AD97F2020BD88E700618D23 /* Horizontal Stack View */,
+			);
+			path = "Stack View";
+			sourceTree = "<group>";
+		};
+		7AD97F1B20BD879F00618D23 /* Container View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "Container View";
+			sourceTree = "<group>";
+		};
+		7AD97F1C20BD87BB00618D23 /* WebKit View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "WebKit View";
+			sourceTree = "<group>";
+		};
+		7AD97F1D20BD88AD00618D23 /* GLKit View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "GLKit View";
+			sourceTree = "<group>";
+		};
+		7AD97F1E20BD88BD00618D23 /* AVKit Player View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "AVKit Player View";
+			sourceTree = "<group>";
+		};
+		7AD97F1F20BD88D800618D23 /* Progress View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "Progress View";
+			sourceTree = "<group>";
+		};
+		7AD97F2020BD88E700618D23 /* Horizontal Stack View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "Horizontal Stack View";
+			sourceTree = "<group>";
+		};
+		7AD97F2120BD88F700618D23 /* Vertical Stack View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "Vertical Stack View";
+			sourceTree = "<group>";
+		};
+		7AD97F2220BD892700618D23 /* MetalKit View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "MetalKit View";
+			sourceTree = "<group>";
+		};
+		7AD97F2320BD894000618D23 /* SceneKit View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "SceneKit View";
+			sourceTree = "<group>";
+		};
+		7AD97F2420BD894C00618D23 /* SpriteKit View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "SpriteKit View";
+			sourceTree = "<group>";
+		};
+		7AD97F2520BD896900618D23 /* ARKit SceneKit View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "ARKit SceneKit View";
+			sourceTree = "<group>";
+		};
+		7AD97F2620BD897F00618D23 /* ARKit SpriteKit View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "ARKit SpriteKit View";
+			sourceTree = "<group>";
+		};
+		7AD97F2720BD89B600618D23 /* UIView */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = UIView;
+			sourceTree = "<group>";
+		};
+		7AD97F2820BD89EC00618D23 /* Buttons */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Buttons;
+			sourceTree = "<group>";
+		};
+		7AD97F2920BD89F600618D23 /* Edit Menus */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "Edit Menus";
+			sourceTree = "<group>";
+		};
+		7AD97F2A20BD8A0300618D23 /* Labels */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Labels;
+			sourceTree = "<group>";
+		};
+		7AD97F2B20BD8A0B00618D23 /* Page Controls */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "Page Controls";
+			sourceTree = "<group>";
+		};
+		7AD97F2C20BD8A1900618D23 /* Pickers */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Pickers;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
