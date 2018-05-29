@@ -25,7 +25,7 @@ import Foundation
  init,
  inout,
  internal,
- let,
+ -let,
  open,
  operator,
  private,
@@ -35,7 +35,7 @@ import Foundation
  struct,
  subscript,
  typealias,
- var.
+ -var.
  
  //MARK:- **** Keywords used in statements:
  
