@@ -17,11 +17,11 @@
 		7A34138420BBDF2500852663 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7A34138220BBDF2500852663 /* LaunchScreen.storyboard */; };
 		7A34138F20BBDF2500852663 /* AllInOne_SwiftTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A34138E20BBDF2500852663 /* AllInOne_SwiftTests.swift */; };
 		7A34139A20BBDF2500852663 /* AllInOne_SwiftUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A34139920BBDF2500852663 /* AllInOne_SwiftUITests.swift */; };
-		7A3413A820BBDF8000852663 /* 1. Obj-C Vs Swift.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A3413A720BBDF8000852663 /* 1. Obj-C Vs Swift.swift */; };
-		7A3413AA20BBE45400852663 /* 2. Pod Commands.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A3413A920BBE45400852663 /* 2. Pod Commands.swift */; };
-		7A3413AC20BBE47300852663 /* 3. Git Commands.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A3413AB20BBE47300852663 /* 3. Git Commands.swift */; };
-		7A3413AE20BC063D00852663 /* 4. Comments.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A3413AD20BC063D00852663 /* 4. Comments.swift */; };
-		7A3413B320BC23C700852663 /* 5. Mark Highlights.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A3413B220BC23C700852663 /* 5. Mark Highlights.swift */; };
+		7A3413A820BBDF8000852663 /* Obj-C Vs Swift.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A3413A720BBDF8000852663 /* Obj-C Vs Swift.swift */; };
+		7A3413AA20BBE45400852663 /* Pod Commands.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A3413A920BBE45400852663 /* Pod Commands.swift */; };
+		7A3413AC20BBE47300852663 /* Git Commands.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A3413AB20BBE47300852663 /* Git Commands.swift */; };
+		7A3413AE20BC063D00852663 /* Comments.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A3413AD20BC063D00852663 /* Comments.swift */; };
+		7A3413B320BC23C700852663 /* Mark Highlights.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A3413B220BC23C700852663 /* Mark Highlights.swift */; };
 		7A3413B620BC2C5200852663 /* Var & Let.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A3413B520BC2C5200852663 /* Var & Let.swift */; };
 		7A3413BC20BC2D0400852663 /* print.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A3413BB20BC2D0400852663 /* print.swift */; };
 		7A3413BE20BC2D7700852663 /* Imp Pod List.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A3413BD20BC2D7700852663 /* Imp Pod List.swift */; };
@@ -34,6 +34,8 @@
 		7AD97E6520BD293400618D23 /* dump.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AD97E6420BD293400618D23 /* dump.swift */; };
 		7AD97E6720BD294200618D23 /* dump to.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AD97E6620BD294200618D23 /* dump to.swift */; };
 		7AD97E8420BD474E00618D23 /* TheBasics.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AD97E8320BD474E00618D23 /* TheBasics.swift */; };
+		7AD97E8720BD5E8F00618D23 /* IOS Design.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AD97E8620BD5E8F00618D23 /* IOS Design.swift */; };
+		7AD97E8920BD61B300618D23 /* Views.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AD97E8820BD61B300618D23 /* Views.swift */; };
 		F9A26EF8A30E34AB917CFDC3 /* Pods_AllInOne_SwiftUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E7888F6D786E78B65412377F /* Pods_AllInOne_SwiftUITests.framework */; };
 /* End PBXBuildFile section */
 
@@ -72,11 +74,11 @@
 		7A34139520BBDF2500852663 /* AllInOne_SwiftUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AllInOne_SwiftUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		7A34139920BBDF2500852663 /* AllInOne_SwiftUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AllInOne_SwiftUITests.swift; sourceTree = "<group>"; };
 		7A34139B20BBDF2500852663 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		7A3413A720BBDF8000852663 /* 1. Obj-C Vs Swift.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1. Obj-C Vs Swift.swift"; sourceTree = "<group>"; };
-		7A3413A920BBE45400852663 /* 2. Pod Commands.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2. Pod Commands.swift"; sourceTree = "<group>"; };
-		7A3413AB20BBE47300852663 /* 3. Git Commands.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "3. Git Commands.swift"; sourceTree = "<group>"; };
-		7A3413AD20BC063D00852663 /* 4. Comments.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "4. Comments.swift"; sourceTree = "<group>"; };
-		7A3413B220BC23C700852663 /* 5. Mark Highlights.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "5. Mark Highlights.swift"; sourceTree = "<group>"; };
+		7A3413A720BBDF8000852663 /* Obj-C Vs Swift.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Obj-C Vs Swift.swift"; sourceTree = "<group>"; };
+		7A3413A920BBE45400852663 /* Pod Commands.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Pod Commands.swift"; sourceTree = "<group>"; };
+		7A3413AB20BBE47300852663 /* Git Commands.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Git Commands.swift"; sourceTree = "<group>"; };
+		7A3413AD20BC063D00852663 /* Comments.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Comments.swift; sourceTree = "<group>"; };
+		7A3413B220BC23C700852663 /* Mark Highlights.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Mark Highlights.swift"; sourceTree = "<group>"; };
 		7A3413B520BC2C5200852663 /* Var & Let.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Var & Let.swift"; sourceTree = "<group>"; };
 		7A3413BB20BC2D0400852663 /* print.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = print.swift; sourceTree = "<group>"; };
 		7A3413BD20BC2D7700852663 /* Imp Pod List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Imp Pod List.swift"; sourceTree = "<group>"; };
@@ -88,6 +90,8 @@
 		7AD97E6420BD293400618D23 /* dump.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = dump.swift; sourceTree = "<group>"; };
 		7AD97E6620BD294200618D23 /* dump to.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "dump to.swift"; sourceTree = "<group>"; };
 		7AD97E8320BD474E00618D23 /* TheBasics.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TheBasics.swift; sourceTree = "<group>"; };
+		7AD97E8620BD5E8F00618D23 /* IOS Design.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "IOS Design.swift"; sourceTree = "<group>"; };
+		7AD97E8820BD61B300618D23 /* Views.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Views.swift; sourceTree = "<group>"; };
 		9AC1DCD170888102CE520719 /* Pods-AllInOne_Swift.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AllInOne_Swift.release.xcconfig"; path = "Pods/Target Support Files/Pods-AllInOne_Swift/Pods-AllInOne_Swift.release.xcconfig"; sourceTree = "<group>"; };
 		A287FAB4B18EA1A1C6516F48 /* Pods-AllInOne_SwiftUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AllInOne_SwiftUITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-AllInOne_SwiftUITests/Pods-AllInOne_SwiftUITests.debug.xcconfig"; sourceTree = "<group>"; };
 		BB0FD28C0EA6254BEA35B9F0 /* Pods_AllInOne_SwiftTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_AllInOne_SwiftTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -172,10 +176,11 @@
 		7A34137520BBDF2000852663 /* AllInOne_Swift */ = {
 			isa = PBXGroup;
 			children = (
-				7A3413B020BC1D2900852663 /* 1.ModuleOne */,
-				7A3413B120BC1D9900852663 /* Imp Basics */,
-				7A3413B420BC2C1400852663 /* Functionality */,
-				7A3413AF20BC1CF600852663 /* Resources */,
+				7AD97E8520BD5DFA00618D23 /* 1.App LifeCycles */,
+				7A3413B020BC1D2900852663 /* 2.App Design */,
+				7A3413B120BC1D9900852663 /* 3.Imp Basics */,
+				7A3413B420BC2C1400852663 /* 4.Swift Theory */,
+				7A3413AF20BC1CF600852663 /* 5.Resources */,
 			);
 			path = AllInOne_Swift;
 			sourceTree = "<group>";
@@ -198,7 +203,7 @@
 			path = AllInOne_SwiftUITests;
 			sourceTree = "<group>";
 		};
-		7A3413AF20BC1CF600852663 /* Resources */ = {
+		7A3413AF20BC1CF600852663 /* 5.Resources */ = {
 			isa = PBXGroup;
 			children = (
 				7A34138020BBDF2500852663 /* Assets.xcassets */,
@@ -206,33 +211,30 @@
 				7A34138520BBDF2500852663 /* Info.plist */,
 				7A34137D20BBDF2000852663 /* AllInOne_Swift.xcdatamodeld */,
 			);
-			path = Resources;
+			path = 5.Resources;
 			sourceTree = "<group>";
 		};
-		7A3413B020BC1D2900852663 /* 1.ModuleOne */ = {
+		7A3413B020BC1D2900852663 /* 2.App Design */ = {
 			isa = PBXGroup;
 			children = (
-				7A34137620BBDF2000852663 /* AppDelegate.swift */,
-				7A34137820BBDF2000852663 /* ViewController.swift */,
+				7AD97E8620BD5E8F00618D23 /* IOS Design.swift */,
+				7AD97E8820BD61B300618D23 /* Views.swift */,
 				7A34137A20BBDF2000852663 /* Main.storyboard */,
 			);
-			path = 1.ModuleOne;
+			path = "2.App Design";
 			sourceTree = "<group>";
 		};
-		7A3413B120BC1D9900852663 /* Imp Basics */ = {
+		7A3413B120BC1D9900852663 /* 3.Imp Basics */ = {
 			isa = PBXGroup;
 			children = (
-				7A3413A720BBDF8000852663 /* 1. Obj-C Vs Swift.swift */,
-				7A3413A920BBE45400852663 /* 2. Pod Commands.swift */,
+				7A3413A920BBE45400852663 /* Pod Commands.swift */,
 				7A3413BD20BC2D7700852663 /* Imp Pod List.swift */,
-				7A3413AB20BBE47300852663 /* 3. Git Commands.swift */,
-				7A3413AD20BC063D00852663 /* 4. Comments.swift */,
-				7A3413B220BC23C700852663 /* 5. Mark Highlights.swift */,
+				7A3413AB20BBE47300852663 /* Git Commands.swift */,
 			);
-			path = "Imp Basics";
+			path = "3.Imp Basics";
 			sourceTree = "<group>";
 		};
-		7A3413B420BC2C1400852663 /* Functionality */ = {
+		7A3413B420BC2C1400852663 /* 4.Swift Theory */ = {
 			isa = PBXGroup;
 			children = (
 				7A3413B920BC2CAA00852663 /* Keywords */,
@@ -265,7 +267,7 @@
 				7AD97E6A20BD328E00618D23 /* Advanced Operators */,
 				7AD97E6920BD328700618D23 /* Patterns */,
 			);
-			path = Functionality;
+			path = "4.Swift Theory";
 			sourceTree = "<group>";
 		};
 		7A3413B920BC2CAA00852663 /* Keywords */ = {
@@ -296,6 +298,9 @@
 			isa = PBXGroup;
 			children = (
 				7AD97E8320BD474E00618D23 /* TheBasics.swift */,
+				7A3413A720BBDF8000852663 /* Obj-C Vs Swift.swift */,
+				7A3413B220BC23C700852663 /* Mark Highlights.swift */,
+				7A3413AD20BC063D00852663 /* Comments.swift */,
 			);
 			path = "The Basics";
 			sourceTree = "<group>";
@@ -480,6 +485,15 @@
 			children = (
 			);
 			path = "Basic Operators";
+			sourceTree = "<group>";
+		};
+		7AD97E8520BD5DFA00618D23 /* 1.App LifeCycles */ = {
+			isa = PBXGroup;
+			children = (
+				7A34137620BBDF2000852663 /* AppDelegate.swift */,
+				7A34137820BBDF2000852663 /* ViewController.swift */,
+			);
+			path = "1.App LifeCycles";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -769,23 +783,25 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7AD97E8720BD5E8F00618D23 /* IOS Design.swift in Sources */,
 				7A34137920BBDF2000852663 /* ViewController.swift in Sources */,
-				7A3413A820BBDF8000852663 /* 1. Obj-C Vs Swift.swift in Sources */,
+				7A3413A820BBDF8000852663 /* Obj-C Vs Swift.swift in Sources */,
 				7A3413C120BC303200852663 /* 1. Keywords.swift in Sources */,
 				7A3413B620BC2C5200852663 /* Var & Let.swift in Sources */,
 				7AD97E5D20BD26AB00618D23 /* print vs println vs NSLog .swift in Sources */,
-				7A3413B320BC23C700852663 /* 5. Mark Highlights.swift in Sources */,
-				7A3413AA20BBE45400852663 /* 2. Pod Commands.swift in Sources */,
+				7A3413B320BC23C700852663 /* Mark Highlights.swift in Sources */,
+				7A3413AA20BBE45400852663 /* Pod Commands.swift in Sources */,
 				7AD97E6720BD294200618D23 /* dump to.swift in Sources */,
 				7AD97E6320BD292000618D23 /* debugPrint to.swift in Sources */,
 				7AD97E5F20BD275C00618D23 /* print to.swift in Sources */,
-				7A3413AE20BC063D00852663 /* 4. Comments.swift in Sources */,
+				7A3413AE20BC063D00852663 /* Comments.swift in Sources */,
 				7A3413BC20BC2D0400852663 /* print.swift in Sources */,
 				7A34137720BBDF2000852663 /* AppDelegate.swift in Sources */,
 				7A34137F20BBDF2000852663 /* AllInOne_Swift.xcdatamodeld in Sources */,
 				7AD97E6520BD293400618D23 /* dump.swift in Sources */,
 				7A3413BE20BC2D7700852663 /* Imp Pod List.swift in Sources */,
-				7A3413AC20BBE47300852663 /* 3. Git Commands.swift in Sources */,
+				7AD97E8920BD61B300618D23 /* Views.swift in Sources */,
+				7A3413AC20BBE47300852663 /* Git Commands.swift in Sources */,
 				7AD97E8420BD474E00618D23 /* TheBasics.swift in Sources */,
 				7AD97E6120BD285100618D23 /* debugPrint.swift in Sources */,
 			);
