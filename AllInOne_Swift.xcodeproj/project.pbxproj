@@ -27,6 +27,8 @@
 		7A3413BE20BC2D7700852663 /* Imp Pod List.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A3413BD20BC2D7700852663 /* Imp Pod List.swift */; };
 		7A3413BF20BC2D9700852663 /* Imp Pod List.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A3413BD20BC2D7700852663 /* Imp Pod List.swift */; };
 		7A3413C120BC303200852663 /* 1. Keywords.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A3413C020BC303200852663 /* 1. Keywords.swift */; };
+		7A534F1D20BE7EE9006607A7 /* XCode Basic.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A534F1C20BE7EE9006607A7 /* XCode Basic.swift */; };
+		7A534F2120BEABB4006607A7 /* Project file.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A534F2020BEABB4006607A7 /* Project file.swift */; };
 		7AD97E5D20BD26AB00618D23 /* print vs println vs NSLog .swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AD97E5C20BD26AB00618D23 /* print vs println vs NSLog .swift */; };
 		7AD97E5F20BD275C00618D23 /* print to.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AD97E5E20BD275C00618D23 /* print to.swift */; };
 		7AD97E6120BD285100618D23 /* debugPrint.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AD97E6020BD285100618D23 /* debugPrint.swift */; };
@@ -35,7 +37,6 @@
 		7AD97E6720BD294200618D23 /* dump to.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AD97E6620BD294200618D23 /* dump to.swift */; };
 		7AD97E8420BD474E00618D23 /* TheBasics.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AD97E8320BD474E00618D23 /* TheBasics.swift */; };
 		7AD97E8720BD5E8F00618D23 /* IOS Design.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AD97E8620BD5E8F00618D23 /* IOS Design.swift */; };
-		7AD97E8920BD61B300618D23 /* Views.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AD97E8820BD61B300618D23 /* Views.swift */; };
 		F9A26EF8A30E34AB917CFDC3 /* Pods_AllInOne_SwiftUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E7888F6D786E78B65412377F /* Pods_AllInOne_SwiftUITests.framework */; };
 /* End PBXBuildFile section */
 
@@ -83,6 +84,8 @@
 		7A3413BB20BC2D0400852663 /* print.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = print.swift; sourceTree = "<group>"; };
 		7A3413BD20BC2D7700852663 /* Imp Pod List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Imp Pod List.swift"; sourceTree = "<group>"; };
 		7A3413C020BC303200852663 /* 1. Keywords.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1. Keywords.swift"; sourceTree = "<group>"; };
+		7A534F1C20BE7EE9006607A7 /* XCode Basic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "XCode Basic.swift"; sourceTree = "<group>"; };
+		7A534F2020BEABB4006607A7 /* Project file.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Project file.swift"; sourceTree = "<group>"; };
 		7AD97E5C20BD26AB00618D23 /* print vs println vs NSLog .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "print vs println vs NSLog .swift"; sourceTree = "<group>"; };
 		7AD97E5E20BD275C00618D23 /* print to.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "print to.swift"; sourceTree = "<group>"; };
 		7AD97E6020BD285100618D23 /* debugPrint.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = debugPrint.swift; sourceTree = "<group>"; };
@@ -91,7 +94,6 @@
 		7AD97E6620BD294200618D23 /* dump to.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "dump to.swift"; sourceTree = "<group>"; };
 		7AD97E8320BD474E00618D23 /* TheBasics.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TheBasics.swift; sourceTree = "<group>"; };
 		7AD97E8620BD5E8F00618D23 /* IOS Design.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "IOS Design.swift"; sourceTree = "<group>"; };
-		7AD97E8820BD61B300618D23 /* Views.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Views.swift; sourceTree = "<group>"; };
 		9AC1DCD170888102CE520719 /* Pods-AllInOne_Swift.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AllInOne_Swift.release.xcconfig"; path = "Pods/Target Support Files/Pods-AllInOne_Swift/Pods-AllInOne_Swift.release.xcconfig"; sourceTree = "<group>"; };
 		A287FAB4B18EA1A1C6516F48 /* Pods-AllInOne_SwiftUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AllInOne_SwiftUITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-AllInOne_SwiftUITests/Pods-AllInOne_SwiftUITests.debug.xcconfig"; sourceTree = "<group>"; };
 		BB0FD28C0EA6254BEA35B9F0 /* Pods_AllInOne_SwiftTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_AllInOne_SwiftTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -176,6 +178,8 @@
 		7A34137520BBDF2000852663 /* AllInOne_Swift */ = {
 			isa = PBXGroup;
 			children = (
+				7A534F1F20BEAB70006607A7 /* Apple Account */,
+				7A534F1E20BE99A7006607A7 /* XCode Basics */,
 				7AD97E8520BD5DFA00618D23 /* 1.App LifeCycles */,
 				7A3413B020BC1D2900852663 /* 2.App Design */,
 				7A3413B120BC1D9900852663 /* 3.Imp Basics */,
@@ -219,7 +223,6 @@
 			isa = PBXGroup;
 			children = (
 				7AD97E8620BD5E8F00618D23 /* IOS Design.swift */,
-				7AD97E8820BD61B300618D23 /* Views.swift */,
 				7A34137A20BBDF2000852663 /* Main.storyboard */,
 			);
 			path = "2.App Design";
@@ -293,6 +296,22 @@
 				7AD97E5C20BD26AB00618D23 /* print vs println vs NSLog .swift */,
 			);
 			path = Print;
+			sourceTree = "<group>";
+		};
+		7A534F1E20BE99A7006607A7 /* XCode Basics */ = {
+			isa = PBXGroup;
+			children = (
+				7A534F1C20BE7EE9006607A7 /* XCode Basic.swift */,
+				7A534F2020BEABB4006607A7 /* Project file.swift */,
+			);
+			path = "XCode Basics";
+			sourceTree = "<group>";
+		};
+		7A534F1F20BEAB70006607A7 /* Apple Account */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "Apple Account";
 			sourceTree = "<group>";
 		};
 		7AD97E6820BD327C00618D23 /* The Basics */ = {
@@ -1212,11 +1231,12 @@
 				7AD97E5F20BD275C00618D23 /* print to.swift in Sources */,
 				7A3413AE20BC063D00852663 /* Comments.swift in Sources */,
 				7A3413BC20BC2D0400852663 /* print.swift in Sources */,
+				7A534F1D20BE7EE9006607A7 /* XCode Basic.swift in Sources */,
+				7A534F2120BEABB4006607A7 /* Project file.swift in Sources */,
 				7A34137720BBDF2000852663 /* AppDelegate.swift in Sources */,
 				7A34137F20BBDF2000852663 /* AllInOne_Swift.xcdatamodeld in Sources */,
 				7AD97E6520BD293400618D23 /* dump.swift in Sources */,
 				7A3413BE20BC2D7700852663 /* Imp Pod List.swift in Sources */,
-				7AD97E8920BD61B300618D23 /* Views.swift in Sources */,
 				7A3413AC20BBE47300852663 /* Git Commands.swift in Sources */,
 				7AD97E8420BD474E00618D23 /* TheBasics.swift in Sources */,
 				7AD97E6120BD285100618D23 /* debugPrint.swift in Sources */,
